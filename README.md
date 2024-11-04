@@ -1,4 +1,4 @@
-# E-Commerce Checkout System
+# E-Commerce  System
 
 This is a basic e-commerce checkout system implemented in Java. The project includes functionalities for managing products, handling shopping carts, and processing checkouts for customers. The system accounts for product expiration, product stock levels, and customer balance during checkout.
 
